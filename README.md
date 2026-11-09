@@ -2,9 +2,9 @@ This repository contains my JavaScript source codes, lecture examples, laborator
 
 ## Contents
 
-- Lesson 1 - JavaScript Activities
-- Lesson 2 - JavaScript Activities
-- Lesson 3 - JavaScript Activities
+- Lesson 1 
+- Lesson 2
+- Lesson 3 
 
 ## Purpose
 
