@@ -15,3 +15,7 @@ This repository was created to organize and store my JavaScript programming acti
 ## Author
 
 Jimuel Asico
+
+## GitHub Demonstration
+
+Successfully demonstrated Git initialization, staging, committing, branching, checkout, merging, pushing, pulling, and cloning.
